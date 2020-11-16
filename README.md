@@ -6,7 +6,7 @@ COSTODE Yan, COULAND Guillaume, Lerdung Kylian, VIVET Florian
 
 ## Présentation
 
-Voici le [diaporama](../Pr-sentation_Pattern_Composite/main/diaporamaComposite.pptx) que nous utiliserons dans cette présentation.
+Voici le [diaporama](../Presentation_Pattern_Composite/main/diaporamaComposite.pptx) que nous utiliserons dans cette présentation.
 
 ## QCM
 
