@@ -6,8 +6,8 @@ COSTODE Yan, COULAND Guillaume, Lerdung Kylian, VIVET Florian
 
 ## Présentation
 
-Voici le [diaporama](https://github.com/Sohar-FV/Presentation_Pattern_Composite/blob/main/diaporamaComposite.pdf) que nous utiliserons dans cette présentation.
+Voici le [diaporama](https://github.com/Sohar-FV/Presentation_Pattern_Composite/blob/main/diaporamaComposite.pdf) que nous avons utilisé lors cette présentation.
 
 ## QCM
 
-Voici le lien vers le QCM qui conclu notre présentation : https://forms.gle/tqHBEB5AyhxtTLAQ8
+Voici le lien vers le QCM qui a conclu notre présentation : https://forms.gle/tqHBEB5AyhxtTLAQ8
